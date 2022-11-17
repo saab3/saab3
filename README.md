@@ -11,6 +11,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zX7Xl0iDk9Qhf66RD9ngmCzff_NajZa-/view?usp=sharing](https://drive.google.com/file/d/1zX7Xl0iDk9Qhf66RD9ngmCzff_NajZa-/view?usp=sharing)
 
+- Sample Projects: 
+  would you rather
+  https://venerable-starburst-808531.netlify.app/
+
+  Book shelf
+  https://soft-entremet-b30c7a.netlify.app/
+
+  QR card component
+  https://res-qr-card.netlify.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-sabea-846700161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-sabea-846700161" height="30" width="40" /></a>
