@@ -16,7 +16,7 @@
   https://venerable-starburst-808531.netlify.app/
 
   Book shelf
-  https://soft-entremet-b30c7a.netlify.app/
+  https://my-reads-reactjs.netlify.app/
 
   QR card component
   https://res-qr-card.netlify.app/
