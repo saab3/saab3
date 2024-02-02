@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Sabea</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Real estate Handover app**
-
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **javascript, react**
 
 - 📫 How to reach me **mahmood.sabae@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zX7Xl0iDk9Qhf66RD9ngmCzff_NajZa-/view?usp=sharing](https://drive.google.com/file/d/1zX7Xl0iDk9Qhf66RD9ngmCzff_NajZa-/view?usp=sharing)
 
 - Sample Projects: 
   would you rather
